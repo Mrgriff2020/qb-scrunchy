@@ -26,4 +26,4 @@ scrunchy = {
     description = 'Use this to tie your hair up.'
 },
 ```
-- Savfe and restart your server
+- Save and restart your server
