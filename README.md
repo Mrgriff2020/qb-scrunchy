@@ -26,4 +26,5 @@ scrunchy = {
     description = 'Use this to tie your hair up.'
 },
 ```
+- Add Imaage to [yourinventory]>HTML>Images
 - Save and restart your server
